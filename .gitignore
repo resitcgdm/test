@@ -1,0 +1,12 @@
+data.txt
+
+dosya/*   
+
+!dosya/deneme.txt  
+
+
+
+
+
+ (Dosya klasörümüz commitlenmemişse bunu githubda görmek istemezsek git status de commitlenmemiş dosya olarak görünmesini engelleyebiliriz böyle)
+(bu dosya hariç diğer dosyaları gizle anlamına gelir ünlem sayesinde)
